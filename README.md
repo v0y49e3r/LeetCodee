@@ -29,5 +29,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/v0y49e3r/GitHubb/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/v0y49e3r/GitHubb/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/v0y49e3r/GitHubb/tree/master/1146-greatest-common-divisor-of-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/v0y49e3r/GitHubb/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/v0y49e3r/GitHubb/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
